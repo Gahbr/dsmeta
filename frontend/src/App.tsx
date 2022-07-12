@@ -1,12 +1,14 @@
+import NotificationButton from "./components/NotificationButton";
 
 
 function App() {
   
 
   return (
-   <div>
-    ching
-   </div>
+   <>
+    <h1>Hey</h1>
+    <NotificationButton/>
+   </>
   )
 }
 
