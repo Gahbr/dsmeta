@@ -15,6 +15,7 @@ import java.util.List;
 public class SaleController {
     @Autowired
     private SaleService service;
+    @Autowired
     private SmsService smsService;
 
     @GetMapping
