@@ -1,8 +1,8 @@
-# ✔️ Relatório de vendas
+# ✔️ Relatório de vendas DSMeta
 
 
 ## 💻 Sobre o projeto
-Essa aplicação faz um relatório das vendas feitas pelos vendedores filtrado de acordo com a data escolhida pelo usuário e também com uma opção de enviar um SMS com os dados do vendedor escolhido. Teste o projeto aqui : https://dsmeta-page.netlify.app
+O DSMeta é uma aplicação que faz um relatório das vendas feitas pelos vendedores filtrado de acordo com a data escolhida pelo usuário e também com uma opção de enviar um SMS com os dados do vendedor escolhido. Teste o projeto aqui : https://dsmeta-page.netlify.app
        
 ![proj1](https://user-images.githubusercontent.com/80289718/179373385-2f46f26e-01fe-4e8e-b8dd-7dd6523927a7.png)
 
