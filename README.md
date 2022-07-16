@@ -2,8 +2,8 @@
 
 
 ## 💻 Sobre o projeto
-Essa aplicação faz um relatório das vendas feitas pelos vendedores filtrado de acordo com a data escolhida pelo usuário e também com uma opção de enviar um SMS com os dados do vendedor escolhido
-
+Essa aplicação faz um relatório das vendas feitas pelos vendedores filtrado de acordo com a data escolhida pelo usuário e também com uma opção de enviar um SMS com os dados do vendedor escolhido. Teste o projeto aqui : https://dsmeta-page.netlify.app
+       
 ![proj1](https://user-images.githubusercontent.com/80289718/179373385-2f46f26e-01fe-4e8e-b8dd-7dd6523927a7.png)
 
 ## 🛠 Tecnologias utilizadas
@@ -13,11 +13,12 @@ Essa aplicação faz um relatório das vendas feitas pelos vendedores filtrado d
 * HTML/CSS
 * Typescript
 * React
+* Axios
 * H2 database
 * Bootstrap
 * IDE Intellij e VSCode
 * Deploy do backend no Heroku e o Frontend no Netlify
-* Twilio
+* Integração de SMS com Twilio
 
 ## 🎨 Design Figma
 
