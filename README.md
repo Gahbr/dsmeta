@@ -24,7 +24,9 @@ O DSMeta é uma aplicação que faz um relatório das vendas feitas pelos vended
 
 https://www.figma.com/file/PehiT8Dw4Lv5ioTSULZeRI/DSMeta3
 
+## 📱 Integração com SMS
 
+![sms](https://user-images.githubusercontent.com/80289718/179373629-d61515dd-ae42-46b9-92bb-b9745ef76f72.png)
 
 ## 🦸 Autor
 
